@@ -1,0 +1,15 @@
+export const Api = {
+  API_BASE: 'http://192.168.6.220:5000/',
+  REGISTER: '/api/auth/register',
+  LOGIN: '/api/auth/login',
+  UPDATE_AVATAR: '/api/profile/updateAvatar',
+  UPDATE_NAME: '/api/profile/updateName',
+  UPDATE_EMAIL: '/api/profile/updateEmail',
+  CREATE_ITEM: '/api/item/create',
+  UPDATE_ITEM: '/api/item/update',
+  DELETE_ITEM: '/api/item/delete',
+  GET_USER_ITEMS: '/api/item/getUserItems',
+  GET_FEED_ITEMS: '/api/item/getFeedItems',
+  VOTE_ITEM: '/api/item/voteItem',
+  UPDATE_SETTING: '/api/setting/update',
+};

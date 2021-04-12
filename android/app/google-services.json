@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755735195604",
+    "project_id": "lettuce-b4f15",
+    "storage_bucket": "lettuce-b4f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755735195604:android:dcb8931dcfd9962e20f041",
+        "android_client_info": {
+          "package_name": "com.lettus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755735195604-ng7ic0b2g5hrvtje43meo6cc7i49jgbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lettus",
+            "certificate_hash": "2354fc4a3d05a2e7c583a169e69c403eebaca899"
+          }
+        },
+        {
+          "client_id": "755735195604-sj2lg3ut6lb83k0p6hupq1icm71d9vr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNrlBih0DBFLhQ1ZisVYUXV4hO2CirNeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755735195604-sj2lg3ut6lb83k0p6hupq1icm71d9vr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
